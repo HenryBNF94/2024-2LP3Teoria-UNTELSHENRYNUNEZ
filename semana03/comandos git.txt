@@ -5,3 +5,10 @@ Working directory -> Staging area: git add -A
 SA -> Repositorio: git commit -M “mensaje”
 Listar versiones (Muestra el historial de cambios que hemos realizado): git log
 Diferencias entre cada commit: git log -P
+**********************
+Para enviar de git → Github (Primera vez)
+Crear repositorio en GitHub
+Crear repositorio en Git
+En git: git remote …. / git push
+Para enviar de git → Github (Segunda vez)
+Git push
